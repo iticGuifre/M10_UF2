@@ -1,0 +1,5 @@
+euros = int(input("Introdueix el valor en euros: "))
+iva = int(input("Introdueix el iva en percentatge: "))
+print(f"Valor: {euros}")
+print(f"IVA: {iva}")
+print("Valor amb iva: " + str(euros + euros * iva / 100))
