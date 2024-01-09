@@ -1,0 +1,5 @@
+frase = input("Introdueix de 1 a 3 paraules: ")
+print(frase)
+print(len(frase))
+print(frase[0])
+print(frase[-1])
