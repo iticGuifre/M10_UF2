@@ -6,3 +6,4 @@ for x in range(len(splitted)):
     suma += splitted[x]
 print(splitted)
 print(suma)
+print(suma / len(splitted))
